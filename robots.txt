@@ -1,0 +1,6 @@
+﻿
+User-agent: *
+Allow: /
+
+Sitemap: https://drivewaypavers.org/sitemap.xml
+    
