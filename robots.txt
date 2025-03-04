@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drivewaypavers.org/sitemap.xml
+Sitemap: https://drivewaypavers.netlify.app/sitemap.xml
     
